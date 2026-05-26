@@ -109,6 +109,67 @@ ai-agent-pm-toolkit/
 
 ---
 
+## 借鉴与引用
+
+本项目学习内容参考了大量优秀的 GitHub 开源项目和社区资源，在此致谢。
+
+### Agent 产品与框架（设计哲学来源）
+
+| 项目 | Stars | 在本项目中的引用 |
+|------|-------|-----------------|
+| [affaan-m/ECC](https://github.com/affaan-m/ECC) | ⭐189K | Week 5 产品拆解 — OS派代表 |
+| [google-gemini/gemini-cli](https://github.com/google-gemini/gemini-cli) | ⭐105K | Week 5 产品拆解 — 专才派代表 |
+| [browser-use/browser-use](https://github.com/browser-use/browser-use) | ⭐95K | Week 5 产品拆解 — 触手派代表 |
+| [thedotmack/claude-mem](https://github.com/thedotmack/claude-mem) | ⭐78K | Week 5 参考 — 跨会话记忆系统 |
+| [bytedance/deer-flow](https://github.com/bytedance/deer-flow) | ⭐69K | Week 5 产品拆解 — 编排派代表 |
+| [code-yeongyu/oh-my-openagent](https://github.com/code-yeongyu/oh-my-openagent) | ⭐59K | Week 5 参考 — 多 Harness Agent OS |
+| [mem0ai/mem0](https://github.com/mem0ai/mem0) | ⭐57K | Week 3 记忆系统设计 — 记忆派代表 |
+| [aaif-goose/goose](https://github.com/aaif-goose/goose) | ⭐46K | Week 5 产品拆解 — 基金会治理派代表 |
+
+### Agent 开发工具与框架
+
+| 项目 | Stars | 在本项目中的引用 |
+|------|-------|-----------------|
+| [firecrawl/firecrawl](https://github.com/firecrawl/firecrawl) | ⭐123K | Week 2 工具链对比 — 网页抓取引擎 |
+| [raga-ai-hub/RagaAI-Catalyst](https://github.com/raga-ai-hub/RagaAI-Catalyst) | ⭐16K | Week 4+7 — Agent 可观测性 SDK |
+| [openlit/openlit](https://github.com/openlit/openlit) | ⭐2.5K | Week 4 — OpenTelemetry 原生可观测性 |
+| [mozilla-ai/any-agent](https://github.com/mozilla-ai/any-agent) | ⭐1.2K | Week 2 — 跨框架统一调用接口 |
+| [awslabs/agent-evaluation](https://github.com/awslabs/agent-evaluation) | ⭐363 | Week 7 — AWS 官方 Agent 评估框架 |
+
+### 学习教程与案例库
+
+| 项目 | Stars | 在本项目中的引用 |
+|------|-------|-----------------|
+| [ashishpatel26/500-AI-Agents-Projects](https://github.com/ashishpatel26/500-AI-Agents-Projects) | ⭐18K+ | Week 5 — 500+ Agent 落地案例 |
+| [datawhalechina/hello-agents](https://github.com/datawhalechina/hello-agents) | ⭐5.7K | Phase 1 — 手搓 Agent 框架教程 |
+| [adongwanai/AgentGuide](https://github.com/adongwanai/AgentGuide) | ⭐5.1K | Week 11 — Agent 开发+面试全指南 |
+| [NirDiamant/GenAI_Agents](https://github.com/NirDiamant/GenAI_Agents) | — | 40+ LangGraph 实用示例参考 |
+| [Scodive/AI-Agent-Guide](https://github.com/Scodive/AI-Agent-Guide) | — | 架构全景 + 关键技术论文索引 |
+| [caramaschiHG/awesome-ai-agents-2026](https://github.com/caramaschiHG/awesome-ai-agents-2026) | ⭐909 | Week 5 — 300+ 资源生态图 |
+
+### 面试资源
+
+| 项目 | Stars | 在本项目中的引用 |
+|------|-------|-----------------|
+| [WeThinkIn/AIGC-Interview-Book](https://github.com/WeThinkIn/AIGC-Interview-Book) | ⭐3.8K | Week 11 — 《三年面试五年模拟》 |
+| [bcefghj/ai-agent-interview-guide](https://github.com/bcefghj/ai-agent-interview-guide) | ⭐987 | 全程 — 200+ 中文面试题 |
+| [smile-struggler/kaomian](https://github.com/smile-struggler/kaomian) | ⭐53 | Week 11 — 大厂面经频次统计 |
+| [Zchary1106/agent-interview-hub](https://github.com/Zchary1106/agent-interview-hub) | ⭐25 | Week 11 — 按公司分类面经库 |
+| [chusimin/AIPM-Skills](https://github.com/chusimin/AIPM-Skills) | ⭐41 | Week 6 — Claude Skills 工具链 |
+
+### 在线资源
+
+- [crackpminterview.com](https://crackpminterview.com) — 英文 AI PM 面试 6 类核心题型
+- [lockedinai.com](https://lockedinai.com) — 56 道 AI PM 面试题 + 样答
+- [igotanoffer.com](https://igotanoffer.com) — 真实 AI PM 面试题（Amazon/Microsoft/eBay）
+- [anthropic.com/research](https://anthropic.com/research) — MCP/A2A/安全最新论文
+- [openai.com/index](https://openai.com/index) — Agents SDK / GPTs 更新
+- [artefact.com/blog/ai-cost-calculator](https://artefact.com/blog/ai-cost-calculator) — Token 成本估算器
+
+> 以上项目的所有权利归原作者所有。本项目仅在学习过程中引用和参考了这些资源的内容与方法论。
+
+---
+
 ## 关于作者
 
 12周前，我是一个想转AI Agent PM的产品经理。
