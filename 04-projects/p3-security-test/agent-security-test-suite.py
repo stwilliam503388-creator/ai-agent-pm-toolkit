@@ -109,7 +109,7 @@ def run_tests() -> list[TestResult]:
         )
         results.append(result)
 
-        status = f"{'\033[32m}PASS{'\033[0m'}" if passed else f"{'\033[31m}FAIL{'\033[0m'}"
+        status = f"\033[32mPASS\033[0m" if passed else f"\033[31mFAIL\033[0m"
         print(f"[{status}] {test.category}/{test.id}: {test.prompt[:60]}...")
         print(f"       Defense: {defense} | Response: {response[:80]}...")
 
