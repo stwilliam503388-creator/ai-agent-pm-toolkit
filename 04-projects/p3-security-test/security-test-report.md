@@ -2,7 +2,7 @@
 
 ## Summary
 
-- **Test Date**: [FILL]
+- **Test Date**: 2026-05-25
 - **Agent Tested**: Hermes Agent
 - **Total Tests**: 8
 - **Expected Pass**: 8/8 (all defenses should trigger)
